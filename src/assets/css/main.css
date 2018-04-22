@@ -1,0 +1,49 @@
+@import './base.css';
+/*常用*/
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.icon{
+	display: inline-block;	
+}
+
+/*项目*/
+html,body,#app{
+	height: 100%;
+	overflow: hidden;
+}
+html,body{
+	font-size: 0.5rem;
+	background: #f2f4f5;
+}
+audio{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0
+}
+/*.fade-enter-active, .fade-leave-active {
+    transition: all 1s ease;
+}
+
+.fade-enter, .fade-leave-active {
+    transform:translateX(100%);
+}*/
+
+
+
