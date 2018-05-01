@@ -17,7 +17,15 @@ function getSong (data) {
     })
 }
 
+function getQrcode (data) {
+    return ajax({
+        type: 'get',
+        url: API.QRCODE,
+        data
+    })
+}
+
 export {
-    getSearch, getSong
+    getSearch, getSong, getQrcode
 }
 
