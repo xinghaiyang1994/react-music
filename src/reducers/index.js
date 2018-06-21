@@ -7,8 +7,8 @@ let curSongState = {
     title: '广东爱情故事',
     author: '广东雨神',
     hash: '2a25aaff4b6c84b859b4d77f944de57a',
-    img: 'http://singerimg.kugou.com/uploadpic/softhead/400/20171222/20171222112942494.jpg',
-    url: 'http://fs.w.kugou.com/201804301905/7b8f245d860d024f64d3952ebf3d73ae/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3',
+    img: 'http://singerimg.kugou.com/uploadpic/softhead/400/20180517/20180517114950723.jpg',
+    url: 'http://fs.w.kugou.com/201806212154/e225b1575771f89e5cae0880413677e4/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3',
     album: '未知专辑',
     lrc: tranLrc(`[00:00.03]广东雨神 - 广东爱情故事
     [00:02.61]词：广东雨神
